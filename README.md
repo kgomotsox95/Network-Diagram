@@ -5,7 +5,8 @@
 
 
 ## IP Configuration
-<img width="1600" height="900" alt="ipconfig" src="https://github.com/user-attachments/assets/4617295b-7866-4e96-9c79-45bbf72ec158" />
+<img width="1009" height="571" alt="image" src="https://github.com/user-attachments/assets/28d70394-5c5d-4a60-b520-35b8e1dd8060" />
+
 
 - Network Range: 172.20.7.x
 - Tested Subnets: 172.20.7.x and 172.20.6.x
