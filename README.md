@@ -45,4 +45,8 @@ This exercise provides practical experience in basic network troubleshooting, ne
 The network mapping exercise confirmed successful communication within the local subnet (172.20.7.x). 
 Some devices did not respond to ICMP requests, likely due to fi
 
-## Summaryrewall policies, subnet separation, or device status.
+## Summary
+
+The network mapping exercise confirmed successful communication within the local subnet (172.20.7.x). 
+Some devices did not respond to ICMP requests, likely due to firewall policies, subnet separation, or device status.
+
