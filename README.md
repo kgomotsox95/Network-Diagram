@@ -1,4 +1,14 @@
 # Network Mapping & Ping Test
+## Introduction
+
+This project demonstrates a basic network mapping and connectivity test conducted within an office environment. The objective was to identify key network components, map the network structure, and verify device connectivity using command-line networking tools in Windows.
+
+The `ipconfig` command was used to gather IP configuration details such as the IPv4 address, subnet mask, and default gateway. The `ping` command was then used to test communication between devices within the local network as well as across different subnets.
+
+The results of the ping tests were analyzed to determine which devices were reachable and to identify possible network segmentation or connectivity restrictions. A simple network diagram was created to visually represent the relationship between the router, internet connection, and connected devices.
+
+This exercise provides practical experience in basic network troubleshooting, network mapping, and interpreting ICMP responses in a real office network environment.
+
 
 ## Network Diagram
 <img width="1408" height="736" alt="network diagram png" src="https://github.com/user-attachments/assets/2f22b736-ab13-4086-8a93-470557d15d60" />
